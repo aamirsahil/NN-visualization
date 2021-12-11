@@ -1,0 +1,1 @@
+Weights connecting a layer to its next = Data[numberOfHiddenNodes]['Weights'+layerNumber][epochCount]
